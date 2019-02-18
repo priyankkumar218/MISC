@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0
+}
+
+body {
+  background: #fff;
+  color: #000;
+  font-family: "Segoe UI";
+  font-size: 16px
+}
+
+a {
+  color: #d20;
+  text-decoration: none
+}
+
+a:hover { border-bottom: 1px solid #000 }
+
+footer {
+  background: #111;
+  border-radius: 4px;
+  color: #fff;
+  margin-bottom: 30px;
+  text-align: center
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 1000px
+}
+
+.logo {
+  font-size: 40px;
+  font-weight: normal;
+  margin-top: 20px;
+  text-align: center
+}
+
+.menu {
+  margin: 20px 0 40px;
+  text-align: center
+}
+
+.menu a { margin: 0 10px }
+
+.front-img {
+  border-radius: 4px;
+  margin-bottom: 40px;
+  width: 70%
+}
+
+.notices {
+  float: right;
+  width: 28%
+}
+
+.information {
+	float: center;
+	width: 100%;
+}
+
+.information p {
+  background: #fec;
+  border: 1px solid #dc9;
+  border-radius: 4px;
+  margin: 6.70px 0;
+  padding: 8px 12px 10px
+}
+
+.ul {
+  background: #fec;
+  border: 1px solid #dc9;
+  border-radius: 4px;
+  margin: 6.70px 0;
+  padding: 8px 12px 10px
+}
+
+.li {
+	margin-left: 10px;
+}
+
+.heading {
+  background: #d20;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: normal;
+  padding: 8px 12px 10px
+}
+
+.notices p {
+  background: #fec;
+  border: 1px solid #dc9;
+  border-radius: 4px;
+  margin: 6.70px 0;
+  padding: 8px 12px 10px
+}
+
+.copyright {
+  font-size: 14px;
+  padding: 12px 0
+}
